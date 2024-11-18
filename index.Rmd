@@ -1,0 +1,287 @@
+---
+title: "Economia Regional"
+author: "João Vitor da Silva Santos"
+date: "2024-11-17"
+output: 
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+# Rodovias Federais
+
+## BR - 101
+
+>
+- Extensão: Aproximadamente 4.772 km.
+<br>
+
+>
+- Trajeto: Liga o extremo norte (Touros, RN) ao extremo sul (São José do Norte, RS).
+<br>
+
+>
+- Importância: É a maior rodovia do país e percorre quase toda a costa brasileira, 
+conectando várias capitais, como Natal, Recife, Salvador, e Florianópolis.
+
+<br>
+
+![](https://th.bing.com/th/id/R.6588750dba5c95a045322caaa7b839ca?rik=mT0iI2f6pyti9Q&riu=http%3a%2f%2f2.bp.blogspot.com%2f-8KjsjHA-GhE%2fTyMt5Kn3D5I%2fAAAAAAAABA4%2fAVda5AK-DCk%2fs1600%2fmapa%2bbr%2b101.jpg&ehk=DvOXC0mErRJAhiPoePxABS8Soo5aGqhXEsBZjoBPeJI%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1)
+
+<br>
+
+### Condições da BR - 101
+
+O trecho da BR-101 em Santa Catarina, especialmente entre Itapema e Navegantes, enfrenta severo congestionamento, afetando a mobilidade e a economia, que depende fortemente da rodovia para escoar produtos e atender ao turismo. Problemas como crescimento urbano desordenado, aumento no tráfego portuário e turístico, e infraestrutura limitada resultam em longos tempos de viagem e prejuízos econômicos.
+
+A Fiesc propõe prorrogar a concessão rodoviária e investir R$ 8,59 bilhões em melhorias, mas uma solução definitiva seria a construção de uma rodovia paralela, estimada em R$ 9,2 bilhões, cuja conclusão só seria viável por volta de 2033.
+
+Medidas emergenciais incluem o uso do acostamento em horários críticos e a ideia de pedágios variáveis para gerenciar o fluxo. A entrega recente de um contorno viário em Florianópolis ajudou a aliviar parte do trânsito, mas os gargalos persistem em outras regiões.
+
+Enquanto o governo e empresários discutem soluções, a situação segue desafiadora, afetando tanto o transporte de cargas quanto o turismo no estado.
+
+<br>
+
+## BR - 116 
+
+
+>
+- Extensão: Aproximadamente 4.490 km.
+<br>
+
+>
+- Trajeto: Liga Fortaleza (CE) a Jaguarão (RS), na fronteira com o Uruguai.
+<br>
+
+>
+- Importância: É a maior rodovia longitudinal do Brasil e conecta importantes centros urbanos, como São Paulo, Curitiba e Porto Alegre.
+<br>
+
+![](https://tendadoumbu.com.br/wp-content/uploads/2017/06/Br-116mapa-858x1024.jpg)
+
+### Condições da BR - 116
+
+O trecho da **BR-116 em Muriaé, MG**, entre os km 700 e 710, está entre os 10 mais perigosos das rodovias federais em Minas Gerais, com **92 acidentes e 2 mortes** registrados entre novembro de 2022 e novembro de 2023, segundo levantamento da CNT. Um dos acidentes mais graves foi uma colisão entre duas carretas em outubro, que resultou na morte de um motorista.
+
+Desde que a EcoRioMinas assumiu a administração da rodovia em setembro de 2022, melhorias iniciais foram realizadas para aumentar a segurança. A concessionária está reimplantando radares removidos pelo DNIT e planeja instalar **seis novos radares e faixas adicionais** entre os km 610 e 620.
+
+No estado, a **colisão é a principal causa de acidentes**, que totalizaram **8.814 ocorrências e 712 mortes** no período analisado. Outras causas incluem saídas de pista, capotamentos e atropelamentos.  
+
+Entre os trechos mais críticos de Minas, a **BR-381**, na região metropolitana de Belo Horizonte, lidera em número de acidentes, seguida pela **BR-040**. A pesquisa da CNT também destacou a **BR-116 entre Valadares e Além Paraíba** como a melhor estrada da região, enquanto a pior é a **MG-482, que liga Conselheiro Lafaiete a Viçosa**.
+
+
+## BR - 070
+
+>
+- Extensão: Aproximadamente 1.900 km.
+<br>
+
+>
+- Trajeto: Liga Brasília (DF) a Cáceres (MT).
+<br>
+
+>
+- Importância: É estratégica para o transporte entre o Centro-Oeste e o restante do país.
+<br>
+
+![](https://i0.wp.com/jornalaguaslindas.com.br/wp-content/uploads/2017/08/mapa.jpg?ssl=1)
+<br>
+
+### Condições da BR - 070
+
+Governo Federal, por meio do Departamento Nacional de Infraestrutura de Transportes (DNIT), autorizou a elaboração do projeto e a execução das obras de implantação, construção e pavimentação dos trechos restantes da BR-070/GO. Serão construídos 8.560 quilômetros de estrada, desde o km 129, no entroncamento com a BR-153/GO, até o município goiano de Itaguari. A ordem de início dos serviços foi assinada nesta sexta-feira (14).
+
+As melhorias, que contarão com um investimento de aproximadamente R$ 50,6 milhões, estão incluídas no Novo Programa de Aceleração do Crescimento (Novo PAC). O contrato prevê, além da pavimentação, drenagem, terraplanagem e a construção de Obras de Arte Especiais (OAE).
+
+As Obras de Arte Especiais são obras que exigem projeto e execução específicos para superar obstáculos naturais ou artificiais, e assim garantir a segurança e a eficiência do trânsito. Como por exemplo, pontes, viadutos e túneis. No contexto da BR-070/GO, as OAEs podem incluir a construção de pontes sobre rios ou viadutos que permitam a travessia de áreas com desníveis acentuados, garantindo assim a continuidade e a qualidade da via pavimentada, melhorando as condições de tráfego, especialmente durante a temporada de chuvas.
+
+A BR-070 é uma das principais rodovias radiais do Brasil, começando no Distrito Federal, passando por Goiás e terminando em Cáceres, no Mato Grosso. A melhoria da infraestrutura rodoviária facilita o escoamento da produção do agronegócio no estado de Goiás. A pavimentação da rodovia ainda vai trazer impacto socioeconômico para a região de Itaguari, conhecida nacionalmente por sua crescente indústria de moda íntima. A expectativa é a geração de novos empregos e um impulso na economia local.
+
+## BR - 230 
+
+>
+- Extensão: Aproximadamente 4.223 km.
+<br>
+
+>
+- Trajeto: Liga Cabedelo (PB) a Lábrea (AM).
+<br>
+
+>
+- Importância: Conhecida como Transamazônica, é fundamental para a integração da região Norte.
+<br>
+
+
+![](https://www.rodovias.org/wp-content/uploads/2018/03/rodovia-br-230.jpg)
+<br>
+
+### Condições da BR - 230
+
+
+
+A **BR-230**, ou **Rodovia Transamazônica**, completou 50 anos em 2022 e é uma das principais rodovias do Brasil, ligando as regiões **Norte e Nordeste**. Inaugurada em 27 de agosto de 1972, a rodovia possui **4.260 km** construídos, conectando **Cabedelo (PB)** a **Lábrea (AM)**. Embora o projeto original previa **8 mil km**, apenas parte foi concluída, com vários trechos ainda sem pavimentação.
+
+#### Principais informações:
+- **Localização e extensão**: Corta seis estados – Paraíba, Ceará, Piauí, Maranhão, Tocantins, Pará e Amazonas.
+- **Interseções importantes**: BR-101, BR-116, BR-135, BR-163 e BR-319, conectando outras regiões e capitais.
+- **Obras e melhorias**: 
+  - Duplicação em 147,6 km entre **Cabedelo e Campina Grande (PB)**, realizada no governo FHC.
+  - Obras de triplicação e duplicação em andamento na Paraíba (trechos em Cabedelo e Campina Grande).
+- **Impacto regional**: Passa por dezenas de cidades, incluindo João Pessoa, Patos, Marabá e Humaitá.
+
+Embora inacabada, a rodovia é um eixo estratégico para transporte e desenvolvimento nas regiões que atravessa.
+
+## BR - 381
+
+
+>
+- Extensão: Aproximadamente 1.200 km.
+<br>
+
+>
+- Trajeto: Liga São Mateus (ES) a São Paulo (SP).
+<br>
+
+>
+- Importância: Conhecida como Rodovia Fernão Dias, conecta Belo Horizonte a São Paulo, sendo vital para o transporte no Sudeste.
+<br>
+
+![](https://www.rodovias.org/wp-content/uploads/2018/03/rodovia-br-381.jpg)
+<br>
+
+### Condições da BR - 381
+
+
+A concessão da BR-381/MG marca um avanço significativo na infraestrutura rodoviária do Brasil. Este leilão, vencido pela 4UM FIP em Infraestrutura de Responsabilidade Ltda., representa a solução de um problema histórico, garantindo investimentos expressivos na ordem de **R$ 9,34 bilhões** e o compromisso de transformar a rodovia em um modelo de segurança e eficiência.
+
+#### Pontos principais do projeto:
+
+1. **Extensão e Impacto**:  
+   - Abrange **296,3 km** entre Belo Horizonte e Governador Valadares.
+   - Envolve 13 cidades diretamente e beneficia cerca de **3,7 milhões de pessoas**.  
+   - Média de tráfego diário de **24.733 veículos**.
+
+2. **Obras e Melhorias Previstas**:  
+   - **Duplicação de 106 km**.  
+   - **83 km de faixas adicionais** e **51 correções de traçado**.  
+   - Construção de **23 passarelas**, **áreas de escape**, e Pontos de Parada e Descanso (PPD).  
+   - Modernização de sinalização e implementação de Bases de Serviço Operacional (BSO).
+
+3. **Calendário de Execução**:  
+   - Contrato será assinado em **28 de novembro de 2024**.  
+   - Obras iniciais (recuperação e sinalização): **primeiro ano**.  
+   - Duplicação: **quarto ao sétimo ano**.  
+   - Faixas adicionais: **sexto ao oitavo ano**.  
+   - Manutenção contínua nos anos subsequentes.
+
+4. **Tarifas e Descontos**:  
+   - Tarifa inicial de pedágio com desconto de **0,94%**.  
+   - Incentivos para usuários frequentes e redução de **5% para pagamento eletrônico**.
+
+5. **Histórico e Ajustes**:  
+   - Após tentativas anteriores falhas, o projeto foi remodelado com:
+     - Redução de valores de Capex e Opex.  
+     - Inclusão de critérios de menor tarifa e maior aporte proporcional.  
+     - Decisão do governo federal de assumir obras em trechos específicos.
+
+6. **Impacto Econômico**:  
+   - Estima-se a geração de **80.879 empregos diretos e indiretos**.  
+   - Benefícios logísticos para o escoamento de produtos industriais, especialmente no Vale do Aço.
+
+A iniciativa, que teve apoio do governo federal, estadual e de entidades como a ANTT, reafirma o compromisso com o desenvolvimento de infraestrutura no Brasil, possibilitando melhores condições de trafegabilidade e impulsionando o crescimento econômico regional.
+
+
+
+## Malha Paulista
+
+>
+- Extensão: Aproximadamente 2.000 km.
+- Trajeto: Abrange o estado de São Paulo e conecta-se a outras malhas ferroviárias e portos, como o de Santos.
+- Importância: É um dos principais eixos ferroviários do país, movimentando produtos agrícolas e industriais.
+
+
+
+![](https://s2.glbimg.com/RcrYRAZDlyEQl0fI6SjHxkqwd6I=/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/D/Y/B8WAh0QaC4BEQe2fSNrQ/arte31emp-101-rumo-b1.jpg)
+
+
+
+
+## Transnordestina
+
+
+>
+- Extensão: Prevista para 1.753 km.
+- Trajeto: Conectará Eliseu Martins (PI) aos portos de Pecém (CE) e Suape (PE).
+- Importância: Estratégica para o desenvolvimento do Nordeste, facilitando o transporte de grãos, minério e combustíveis.
+
+![](https://2.bp.blogspot.com/-2myq_geysKA/ToeLZhiUczI/AAAAAAAAADc/ejLQ_XOs5bc/s1600/mapa_transnordestina_novo.gif)
+
+
+
+
+
+## FIOL - Ferrovia de Integração Oeste - Leste
+
+Com aproximadamente 1527 km de extensão, a Ferrovia de Integração Oeste Leste-FIOL ligará o futuro porto de Ilhéus (no litoral baiano) a Figueirópolis (em Tocantins), ponto em que se conectará com a Ferrovia Norte Sul.
+
+### Objetivos
+- Estabelecer alternativas mais econômicas para os fluxos de carga de longa distância;
+- Favorecer a multimodalidade;
+- Interligar a malha ferroviária brasileira;
+- Propor nova alternativa logística para o escoamento da produção agrícola e de mineração por meio do terminal portuário de Ilhéus/BA; e
+- Incentivar investimentos, para incrementar a produção e induzir a processos produtivos modernos.
+
+### Benefícios
+- Reduzir os custos de transporte de grãos, álcool e minérios destinados aos mercados 
+- internos e externos;
+- Aumentar a produção agroindustrial da região, motivada por melhores condições de acesso aos mercados nacional e internacional;
+- Interligar os estados de Tocantins, Maranhão, Goiás e Bahia aos portos de Ilhéus/BA e 
+- Itaqui/MA, o que proporcionará melhor desempenho econômico de toda a malha ferroviária;
+- Incentivar os investimentos, a modernização e a produção;
+- Melhorar a renda e a distribuição da riqueza nacional;
+- Reduzir a emissão de poluentes;
+- Reduzir o número de acidentes em rodovias.
+
+
+![](https://abifer.org.br/wp-content/uploads/2019/11/fiol_mapa.png)
+
+<br>
+
+# Infraestrutura logística e redução das desigualdades regionais
+<br>
+
+## Integração das regiões:
+
+>
+ - Conexão entre mercados locais e nacionais
+ - Acesso a insumos e tecnologia
+ 
+ <br>
+ 
+## Atração de investimentos e desenvolvimento econômico:
+<br>
+
+>
+- Estimulação da industrialização
+- Crescimento de polos econômicos regionais
+
+<br>
+
+## Geração de empregos locais
+<br>
+
+
+## Redução do custo de vida e melhoria da qualidade de vida
+
+<br>
+
+## Descentralização econômica
+
+<br>
+
+https://www.gov.br/transportes/pt-br/assuntos/noticias/2024/11/com-obras-avancadas-e-financiamento-garantido-transnordestina-devera-ser-entregue-em-2026-1
+
+
+
+
+
